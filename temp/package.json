@@ -28,5 +28,9 @@
     "gulp-uglify": "^3.0.2",
     "panini": "^1.7.2",
     "sass": "^1.78.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "slick-carousel": "^1.8.1"
   }
 }
