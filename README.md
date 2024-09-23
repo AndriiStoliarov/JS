@@ -6,7 +6,9 @@ BEM methodology, coding style, project structure, PageSpeed Insights, advices fr
 
 PageSpeed Insights [pagespeed.web.dev](https://pagespeed.web.dev/).
 
-![checklist](BEM/data/checklist.pdf)
+[Checklist](BEM/data/checklist.pdf).
+
+![checklist](BEM/data/checklist.png)
 
 ![propertyBlocks](BEM/data/propertyBlocks.png)
 
