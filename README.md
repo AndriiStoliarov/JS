@@ -10,6 +10,8 @@ PageSpeed Insights [pagespeed.web.dev](https://pagespeed.web.dev/).
 
 ![checklist](BEM/data/checklist.png)
 
+![propertyBlocks](BEM/data/propertyBlocks.png)
+
 ```css
 /* пример оформления CSS */
 .someclass {
@@ -46,10 +48,14 @@ PageSpeed Insights [pagespeed.web.dev](https://pagespeed.web.dev/).
   animation: circleRadius 12s alternate infinite;
 }
 ```
+![needToRemember](BEM/data/needToRemember.png)
 
-![propertyBlocks](BEM/data/propertyBlocks.png)
+## systemFonts
+Animations and system fonts from BrainsCloud.
 
-```
+![fonts](systemFonts/data/systemFontsExample.png)
+
+```css
 body {
     font-family: 
         -apple-system,
@@ -64,10 +70,3 @@ body {
         "Segoe UI Symbol";
 }
 ```
-
-![needToRemember](BEM/data/needToRemember.png)
-
-## systemFonts
-Animations and system fonts from BrainsCloud.
-
-![fonts](systemFonts/data/systemFontsExample.png)
