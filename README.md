@@ -10,7 +10,7 @@ PageSpeed Insights [pagespeed.web.dev](https://pagespeed.web.dev/).
 
 ![checklist](BEM/data/checklist.png)
 
-\```css
+```css
 /* пример оформления CSS */
 .someclass {
   /* размеры, отступы */
@@ -45,7 +45,7 @@ PageSpeed Insights [pagespeed.web.dev](https://pagespeed.web.dev/).
   transform: translate3d(0, -100px, 0);
   animation: circleRadius 12s alternate infinite;
 }
-\```
+```
 
 ![propertyBlocks](BEM/data/propertyBlocks.png)
 
