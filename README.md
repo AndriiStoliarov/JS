@@ -49,6 +49,22 @@ PageSpeed Insights [pagespeed.web.dev](https://pagespeed.web.dev/).
 
 ![propertyBlocks](BEM/data/propertyBlocks.png)
 
+```
+body {
+    font-family: 
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Helvetica,
+        Arial,
+        sans-serif,
+        "Apple Color Emoji",
+        "Segoe UI Emoji",
+        "Segoe UI Symbol";
+}
+```
+
 ![needToRemember](BEM/data/needToRemember.png)
 
 ## systemFonts
